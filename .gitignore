@@ -1,0 +1,16 @@
+*.h
+
+*.exe
+*.out
+*.app
+
+*.slo
+*.lo
+*.o
+*.obj
+
+*.so
+*.dylib
+*.dll
+
+*.ipch
